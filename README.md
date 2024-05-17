@@ -1,4 +1,18 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
+
+Meu nome é Denniely Corrêa
+
+- 👩‍💼 Estou estudando na [Alura](https://www.alura.com.br)
+- 👩‍🎓 Estou me desenvolvendo na linguagem JavaScript
+- 💻 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo 📫
+
+denny.grijota@gmail.com
+
+@dennielycorrea
+
+![](https://media1.tenor.com/m/AmtGg5GiqIAAAAAC/shaquille-o-neal-excited.gif)
 
 <!--
 **denniely/denniely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
